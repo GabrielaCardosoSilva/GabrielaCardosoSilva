@@ -2,7 +2,7 @@
   ##
 <div>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielaCardosoSilva&show_icons=true&bg_color=2F2F3E&title_color=7496FC&text_color=fff&icon_color=&BE90F2&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaCardosoSilva&langs_count=6&bg_color=2F2F3E&title_color=7496FC&text_color=fff&icon_color=BE90F2&layout=compact"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaCardosoSilva&langs_count=7&bg_color=2F2F3E&title_color=7496FC&text_color=fff&icon_color=BE90F2&layout=compact"/>
 </div>
   
 <div style="display: inline_block"><br>
