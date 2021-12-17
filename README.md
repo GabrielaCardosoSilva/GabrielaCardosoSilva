@@ -6,13 +6,35 @@ print("Em Deus nós confiamos; todos os outros devem trazer dados")
 print("William Edwards Deming")
 ~~~
 
-
-
 <div>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielaCardosoSilva&theme=tokyonight&show_icons=true&bg_color=2F2F3E&title_color=d18aff&text_color=fff&icon_color=&d18aff&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaCardosoSilva&theme=tokyonight&langs_count=7&bg_color=2F2F3E&title_color=d18aff&text_color=fff&icon_color=BE90F2&layout=compact&hide_border=true"/>
 </div>
-  
+
+##
+
+**O que estou fazendo nessa plataforma:**
+
+Documentando o conhecimento que venho adiquirindo (principalmente na área de dados), buscando novas ideias e me inspirando.
+
+
+**O que estou buscando aperfeiçoar:**
+
+Python, SQL, EXCEL, estatística, Pandas
+
+**O que estou começando a aprender:**
+
+Microsoft Power BI, Machine Learning
+
+**O que quero aprender em um futuro breve:**
+
+R, IA
+
+**O que tenho noções para sobreviver:**
+
+HTML, CSS, PHP, JAVASCRIPT
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
