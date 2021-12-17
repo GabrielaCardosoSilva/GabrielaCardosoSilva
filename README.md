@@ -1,8 +1,13 @@
 # Hey, eu sou a Gabi!
   ##
 
-_**"Em Deus nós confiamos; todos os outros devem trazer dados"**_
-William Edwards Deming
+~~~Python
+print("Em Deus nós confiamos; todos os outros devem trazer dados")
+print("William Edwards Deming")
+~~~
+
+
+
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielaCardosoSilva&show_icons=true&bg_color=2F2F3E&title_color=7496FC&text_color=fff&icon_color=&BE90F2&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaCardosoSilva&langs_count=7&bg_color=2F2F3E&title_color=7496FC&text_color=fff&icon_color=BE90F2&layout=compact&hide_border=true"/>
