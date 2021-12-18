@@ -15,7 +15,7 @@ print("William Edwards Deming")
 
 **O que estou fazendo nessa plataforma:**
 
-Documentando o conhecimento que venho adiquirindo (principalmente na área de dados), buscando novas ideias e me inspirando.
+Documentando o conhecimento que venho adquirindo (principalmente na área de dados), buscando novas ideias e me inspirando.
 
 
 **O que estou buscando aperfeiçoar:**
