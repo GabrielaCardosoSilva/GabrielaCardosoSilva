@@ -5,6 +5,10 @@
 print("Em Deus nós confiamos; todos os outros devem trazer dados")
 print("William Edwards Deming")
 ~~~
+<br/>
+
+> _Signo de dados com ascendente em web_
+
 
 <div>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielaCardosoSilva&theme=tokyonight&show_icons=true&bg_color=2F2F3E&title_color=d18aff&text_color=fff&icon_color=&d18aff&include_all_commits=true&count_private=true&hide_border=true"/>
