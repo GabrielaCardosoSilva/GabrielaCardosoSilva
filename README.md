@@ -45,8 +45,8 @@ Documentando o conhecimento que venho adquirindo (principalmente na área de dad
 
 **O que quero aprender em um futuro breve:**
 <div>
-  <img align="center" alt="Gabi-Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
-  <img align="center" alt="Gabi-Numba" src="https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white
+  <img align="center" alt="Gabi-Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  <img align="center" alt="Gabi-Numba" src="https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white">
   <img align="center" alt="Gabi-R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img align="center" alt="Gabi-IA" src="https://img.shields.io/badge/Inteligência%20Artificial-000000?style=for-the-badge">
 </div>
