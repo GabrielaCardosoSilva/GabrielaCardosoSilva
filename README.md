@@ -21,11 +21,11 @@ Documentando o conhecimento que venho adiquirindo (principalmente na área de da
 **O que estou buscando aperfeiçoar:**
 
 <img align="center" alt="Gabi-Python" height="30" width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-Python, , EXCEL, estatística, Pandas
+<img align="center" alt="Gabi-Pandas" height="30" width="100" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+<img align="center" alt="Gabi-Excel" height="30" width="110" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+sql server https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white
+sheets https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white
+notion https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
 
 **O que estou começando a aprender:**
 
