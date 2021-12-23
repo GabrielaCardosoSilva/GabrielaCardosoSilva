@@ -82,7 +82,7 @@ Documentando o conhecimento que venho adquirindo (principalmente na área de dad
 
 
 **Onde me encontrar:**
-<div><br>
+<div>
   <a href="https://www.linkedin.com/in/gabriela-cardoso-76a0a9194/?originalSubdomain=br" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-323330?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:gabriela.silva137@fatec.sp.gov.br" target="_blank" rel="external"><img src="https://img.shields.io/badge/Microsoft_Outlook-323330?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.hackerrank.com/gabrielacardoso1" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Hackerrank-323330?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
