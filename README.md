@@ -34,7 +34,6 @@ Documentando o conhecimento que venho adquirindo (principalmente na área de dad
   <img align="center" alt="Gabi-Excel" src="https://img.shields.io/badge/Microsoft_Excel-323330?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img align="center" alt="Gabi-Sheets" src="https://img.shields.io/badge/Google%20Sheets-323330?style=for-the-badge&logo=google-sheets&logoColor=white">
   <img align="center" alt="Gabi-SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-323330?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=whit">
-  <img align="center" alt="Gabi-MySQL" src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Gabi-Estatística" src="https://img.shields.io/badge/Estatística-323330?style=for-the-badge">
 </div>
 <br>
@@ -60,6 +59,7 @@ Documentando o conhecimento que venho adquirindo (principalmente na área de dad
 
 **O que tenho noções para sobreviver:**
 <div>
+  <img align="center" alt="Gabi-MySQL" src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Gabi-HTML" src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Gabi-CSS" src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Gabi-JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
